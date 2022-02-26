@@ -2,6 +2,10 @@
 
 The repository includes examples of modern cpp.
 
+=== Compilation Process
+
+Includes a diagram showing the 4 stages of the compilation process.
+
 === Hello World
 
 An example of printing "Hello World" to the screen
