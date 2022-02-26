@@ -1,7 +1,5 @@
 == How to Build Libraries?
 
-https://www.ipb.uni-bonn.de/teaching/cpp-2021/lectures/
-
 Short : We seperate the code into modules
 
 Declaration : tools.hpp
