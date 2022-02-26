@@ -2,9 +2,13 @@
 
 The repository includes examples of modern cpp.
 
+=== CMake
+
+Includes an example of CMake.
+
 === Build Libraries
 
-There is an example and explanation of how to build libraries.
+Includes an example and explanation of how to build libraries.
 
 === Compiling Process
 
