@@ -6,7 +6,7 @@ https://www.ipb.uni-bonn.de/teaching/cpp-2021/lectures/
 
 == Build Systems
 
-* *CMake*
+== CMake
 
 Includes an example of CMake.
 
