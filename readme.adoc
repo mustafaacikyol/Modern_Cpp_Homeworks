@@ -2,6 +2,10 @@
 
 The repository includes examples of modern cpp.
 
+===Build Libraries
+
+There is an example and explanation of how to build libraries.
+
 === Compiling Process
 
 Includes a diagram showing the 4 stages of the compilation process.
