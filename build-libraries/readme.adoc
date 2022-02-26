@@ -7,3 +7,9 @@ Declaration : tools.hpp
 Definiton : tools.cpp
 
 Calling : main.cpp
+
+=== Use modules and libraries!
+
+Compile modules :
+
+c++ -std=c++17  -c  tools.cpp   ->    tools.o
