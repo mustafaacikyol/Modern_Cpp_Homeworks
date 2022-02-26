@@ -1,0 +1,9 @@
+== How to Build Libraries?
+
+Short : We seperate the code into modules
+
+Declaration : tools.hpp
+
+Definiton : tools.cpp
+
+Calling : main.cpp
