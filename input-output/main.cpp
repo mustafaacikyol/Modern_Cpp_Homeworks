@@ -1,7 +1,5 @@
 #include <iostream>
 
-    //https://www.ipb.uni-bonn.de/teaching/cpp-2021/lectures/
-
 int main(){
     
     int number;                                                 //Declaration of a new variable                    
