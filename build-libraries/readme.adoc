@@ -27,3 +27,13 @@ c++   -std=c++17    -c    main.cpp                               ->    main.o
 Link main application to libraries :
 
 c++   -std=c++17    main.o    -L    -ltools     -o    main       ->    main
+
+=== Building by hand is hard
+
+4 commands to build a simple hello world example with two symbols.
+
+How does it scales on big projects?
+
+Impossible to maintain.
+
+Build system to the rescue.
