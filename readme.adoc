@@ -2,7 +2,7 @@
 
 The repository includes examples of modern cpp.
 
-=== Compilation Process
+=== Compiling Process
 
 Includes a diagram showing the 4 stages of the compilation process.
 
