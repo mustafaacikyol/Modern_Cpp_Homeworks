@@ -1,0 +1,24 @@
+@startuml
+
+title The Compiler: Behind the scenes 
+
+[*] --> Source_Code
+Source_Code:main.cpp
+
+Source_Code --> Pre_processor
+Pre_processor-> main.i
+
+Pre_processor--> Compiler
+Compiler -> main.s
+
+Compiler --> Assembler
+Assembler -> main.o
+main.o:Object_file
+
+main.o --> Linker
+libraries --> Linker
+
+Linker --> Executable
+Executable:{}
+
+@enduml
