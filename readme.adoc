@@ -2,6 +2,8 @@
 
 The repository includes examples of modern cpp.
 
+https://www.ipb.uni-bonn.de/teaching/cpp-2021/lectures/
+
 === CMake
 
 Includes an example of CMake.
