@@ -8,4 +8,4 @@ An example of printing "Hello World" to the screen
 
 === Input/Output
 
-AN example of input and output.
+An example of input and output.
