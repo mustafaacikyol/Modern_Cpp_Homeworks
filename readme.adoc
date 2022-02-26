@@ -10,18 +10,18 @@ https://www.ipb.uni-bonn.de/teaching/cpp-2021/lectures/
 
 Includes an example of CMake.
 
-=== Build Libraries
+* *Build Libraries*
 
 Includes an example and explanation of how to build libraries.
 
-=== Compiling Process
+* *Compiling Process*
 
 Includes a diagram showing the 4 stages of the compiling process.
 
-=== Hello World
+* *Hello World*
 
 An example of printing "Hello World" to the screen
 
-=== Input/Output
+* *Input/Output*
 
 An example of input and output.
