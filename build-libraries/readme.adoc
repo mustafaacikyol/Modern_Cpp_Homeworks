@@ -12,4 +12,16 @@ Calling : main.cpp
 
 Compile modules :
 
-c++ -std=c++17  -c  tools.cpp   ->    tools.o
+c++ -std=c++17  -c  tools.cpp                                    ->    tools.o
+
+Organize modules into libraries :
+
+ar  rcs   libtools.a  tools.o <other_modules>                    ->    libtools.a
+
+Compile main application :
+
+c++   -std=c++17    -c    main.cpp                               ->    main.o
+
+Link main application to libraries :
+
+c++   -std=c++17    main.o    -L    -ltools     -o    main       ->    main
