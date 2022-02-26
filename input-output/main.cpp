@@ -1,9 +1,9 @@
 #include <iostream>
 
-int main(){
-    
     //https://www.ipb.uni-bonn.de/teaching/cpp-2021/lectures/
 
+int main(){
+    
     int number;                                                 //Declaration of a new variable                    
     std::cout << "Please input any number" << std::endl;        //Print "Please input any number" to the screen
     std::cin >> number;                                         //assigning the entered number value to the variable
