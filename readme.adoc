@@ -25,3 +25,11 @@ An example of printing "Hello World" to the screen
 * *Input/Output*
 
 An example of input and output.
+
+== Homeworks
+
+Includes some homeworks with their answers.
+
+* *Homework_1
+
+
