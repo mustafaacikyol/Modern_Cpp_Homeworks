@@ -30,6 +30,6 @@ An example of input and output.
 
 Includes some homeworks with their answers.
 
-* *Homework_1
+* *Homework_1*
 
 
