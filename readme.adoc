@@ -32,4 +32,6 @@ Includes some homeworks with their answers.
 
 * *Homework_1*
 
+Homework is about using Linux terminal and build systems.
+
 
