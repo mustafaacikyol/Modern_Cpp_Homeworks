@@ -1,6 +1,6 @@
 = Modern Cpp
 
-The repository includes examples of modern cpp.
+The repository includes examples of modern cpp and some homeworks with their answers.
 
 https://www.ipb.uni-bonn.de/teaching/cpp-2021/lectures/
 
