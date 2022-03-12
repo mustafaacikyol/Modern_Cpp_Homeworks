@@ -34,4 +34,8 @@ Includes some homeworks with their answers.
 
 Homework is about using Linux terminal and build systems.
 
+* *Homework_2*
+
+Homework is about basic syntax.
+
 
