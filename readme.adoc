@@ -38,4 +38,8 @@ Homework is about using Linux terminal and build systems.
 
 Homework is about basic syntax.
 
+* *Homework_3*
+
+Homework is about functions.
+
 
