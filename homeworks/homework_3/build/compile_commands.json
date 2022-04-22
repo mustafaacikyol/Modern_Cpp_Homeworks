@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/d/c++/homeworks/homework_3/build",
+  "command": "/usr/bin/c++   -I/mnt/d/c++/homeworks/homework_3/build/../include    -o CMakeFiles/main.dir/mnt/d/c++/homeworks/homework_3/src/main.cpp.o -c /mnt/d/c++/homeworks/homework_3/src/main.cpp",
+  "file": "/mnt/d/c++/homeworks/homework_3/src/main.cpp"
+},
+{
+  "directory": "/mnt/d/c++/homeworks/homework_3/build",
+  "command": "/usr/bin/c++   -I/mnt/d/c++/homeworks/homework_3/build/../include    -o CMakeFiles/html_writer.dir/mnt/d/c++/homeworks/homework_3/src/html_writer.cpp.o -c /mnt/d/c++/homeworks/homework_3/src/html_writer.cpp",
+  "file": "/mnt/d/c++/homeworks/homework_3/src/html_writer.cpp"
+}
+]

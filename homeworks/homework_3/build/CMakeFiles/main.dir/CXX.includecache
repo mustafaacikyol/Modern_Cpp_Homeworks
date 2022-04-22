@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/c++/homeworks/homework_3/api/html_writer.hpp
+iostream
+-
+fstream
+-
+string.h
+-
+string
+-
+iomanip
+-
+
+/mnt/d/c++/homeworks/homework_3/api/image_browser.hpp
+array
+-
+fstream
+-
+string
+-
+tuple
+-
+vector
+-
+iomanip
+-
+
+/mnt/d/c++/homeworks/homework_3/include/homework_3.hpp
+../api/html_writer.hpp
+/mnt/d/c++/homeworks/homework_3/api/html_writer.hpp
+../api/image_browser.hpp
+/mnt/d/c++/homeworks/homework_3/api/image_browser.hpp
+iostream
+-
+
+/mnt/d/c++/homeworks/homework_3/src/main.cpp
+../include/homework_3.hpp
+/mnt/d/c++/homeworks/homework_3/include/homework_3.hpp
+

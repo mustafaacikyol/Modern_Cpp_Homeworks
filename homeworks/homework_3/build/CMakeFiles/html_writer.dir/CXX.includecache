@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/c++/homeworks/homework_3/api/html_writer.hpp
+iostream
+-
+fstream
+-
+string.h
+-
+string
+-
+iomanip
+-
+
+/mnt/d/c++/homeworks/homework_3/src/html_writer.cpp
+../api/html_writer.hpp
+/mnt/d/c++/homeworks/homework_3/api/html_writer.hpp
+

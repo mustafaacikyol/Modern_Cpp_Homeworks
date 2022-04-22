@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/mnt/d/c++/homeworks/homework_3/src/main.cpp.o  -o main  libhtml_writer.a 
