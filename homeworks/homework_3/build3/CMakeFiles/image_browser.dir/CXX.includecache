@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/c++/homeworks/homework_3/api/image_browser.hpp
+array
+-
+fstream
+-
+string
+-
+tuple
+-
+vector
+-
+iomanip
+-
+
+/mnt/d/c++/homeworks/homework_3/src/image_browser.cpp
+../api/image_browser.hpp
+/mnt/d/c++/homeworks/homework_3/api/image_browser.hpp
+

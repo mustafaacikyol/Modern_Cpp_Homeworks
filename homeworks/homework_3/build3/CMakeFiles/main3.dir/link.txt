@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main3.dir/mnt/d/c++/homeworks/homework_3/src/main3.cpp.o  -o main3  libimage_browser.a 

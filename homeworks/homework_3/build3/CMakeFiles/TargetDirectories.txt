@@ -1,0 +1,4 @@
+/mnt/d/c++/homeworks/homework_3/build3/CMakeFiles/rebuild_cache.dir
+/mnt/d/c++/homeworks/homework_3/build3/CMakeFiles/edit_cache.dir
+/mnt/d/c++/homeworks/homework_3/build3/CMakeFiles/main3.dir
+/mnt/d/c++/homeworks/homework_3/build3/CMakeFiles/image_browser.dir

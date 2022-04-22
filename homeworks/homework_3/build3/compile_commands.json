@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/d/c++/homeworks/homework_3/build3",
+  "command": "/usr/bin/c++   -I/mnt/d/c++/homeworks/homework_3/build3/../include    -o CMakeFiles/main3.dir/mnt/d/c++/homeworks/homework_3/src/main3.cpp.o -c /mnt/d/c++/homeworks/homework_3/src/main3.cpp",
+  "file": "/mnt/d/c++/homeworks/homework_3/src/main3.cpp"
+},
+{
+  "directory": "/mnt/d/c++/homeworks/homework_3/build3",
+  "command": "/usr/bin/c++   -I/mnt/d/c++/homeworks/homework_3/build3/../include    -o CMakeFiles/image_browser.dir/mnt/d/c++/homeworks/homework_3/src/image_browser.cpp.o -c /mnt/d/c++/homeworks/homework_3/src/image_browser.cpp",
+  "file": "/mnt/d/c++/homeworks/homework_3/src/image_browser.cpp"
+}
+]
