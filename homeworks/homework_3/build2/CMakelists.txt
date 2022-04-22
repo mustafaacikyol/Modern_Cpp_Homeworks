@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.1)
+project(web_application2)
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+include_directories(../include/)
+
+add_library(image_html ../src/html_writer.cpp ../src/image_browser.cpp)
+add_executable(main2 ../src/main2.cpp) 
+target_link_libraries(main2 image_html)

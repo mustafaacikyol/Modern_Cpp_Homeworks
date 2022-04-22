@@ -1,0 +1,4 @@
+/mnt/d/c++/homeworks/homework_3/build2/CMakeFiles/rebuild_cache.dir
+/mnt/d/c++/homeworks/homework_3/build2/CMakeFiles/edit_cache.dir
+/mnt/d/c++/homeworks/homework_3/build2/CMakeFiles/main2.dir
+/mnt/d/c++/homeworks/homework_3/build2/CMakeFiles/image_html.dir
